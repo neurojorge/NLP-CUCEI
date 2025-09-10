@@ -1,0 +1,51 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[codz]
+*$py.class
+
+# C extensions
+*.so
+
+# Environments
+.env
+.envrc
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints
+
+# --- REGLAS DE NLP-CUCEI (AÑADIDAS) ---
+
+# Archivos de Bases de Datos SQLite
+*.db
+*.db-journal
+*.db-shm
+*.db-wal
+
+# Ignorar todos los datos crudos, procesados y outputs (DEBEN IR A DVC)
+*.csv
+*.json
+*.pkl
+*.parquet
+*.pdf
+*.txt
+# Excepción: Permitir requirements.txt (si lo llegas a crear)
+!requirements.txt
+
+# Ignorar Modelos y Embeddings (DEBEN IR A DVC)
+*.pth
+*.pt
+*.npy
+*.npz
+*.h5
+*.model
+
+# Carpetas de output generadas
+/Resultados/
+/Embeddingsss/
+/modelsredes/
