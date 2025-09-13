@@ -26,7 +26,7 @@ import pandas as pd
 from playwright.sync_api import sync_playwright, TimeoutError as PWTimeout
 
 # ------------------ CONFIG ------------------
-GROUP_URL = "https://www.facebook.com/share/g/1C9NF1iirU/"
+GROUP_URL = "https://www.facebook.com/share/g/17AeWmU4yr/"
 COOKIES_PATH = "facebook_cookies.json"
 # OUTPUT_CSV = "facebook_corpus_raw..." <-- YA NO SE USA CSV
 DATABASE_NAME = "cucei_reviews.db" # <-- CAMBIO: Output a Base de Datos
