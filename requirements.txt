@@ -6,4 +6,3 @@ sentence-transformers
 matplotlib
 seaborn
 jupyter
-playwright

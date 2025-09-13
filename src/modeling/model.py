@@ -1,4 +1,3 @@
-# Contenido COMPLETO y CORREGIDO para: src/modeling/model.py
 # (Modelo V6: Fusión Directa de Características)
 
 import torch

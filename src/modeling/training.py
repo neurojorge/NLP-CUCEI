@@ -1,4 +1,3 @@
-# Contenido COMPLETO y CORREGIDO para: src/modeling/training.py
 # (V6: Adaptado para Fusión Directa)
 
 import torch

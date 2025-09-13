@@ -1,5 +1,3 @@
-# Contenido COMPLETO y CORREGIDO para: src/data_processing/utils.py
-
 import re
 import pandas as pd
 import numpy as np
