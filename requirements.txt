@@ -1,8 +1,36 @@
-torch
+# Core libraries for data manipulation and numerics
 pandas
 numpy
 scikit-learn
+
+# Web Scraping and HTTP requests
+requests
+beautifulsoup4
+
+# PDF Processing
+pdfplumber
+
+# NLP, Embeddings, and Transformers
 sentence-transformers
+transformers
+torch
+datasets
+trl
+peft
+bitsandbytes
+chromadb
+
+# String matching
+fuzzywuzzy
+python-Levenshtein
+
+# Visualization
 matplotlib
 seaborn
+
+# Jupyter environment
 jupyter
+ipywidgets
+
+# Utility
+tqdm
